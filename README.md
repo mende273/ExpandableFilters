@@ -5,3 +5,5 @@
 ![Release](https://img.shields.io/github/v/release/mende273/expandablefilters?logo=github&color=lightblue&logoColor=white&labelColor=black&style=for-the-badge)
 
 Animated Expandable Filters in Jetpack Compose.
+
+![Demo](demo.gif)
